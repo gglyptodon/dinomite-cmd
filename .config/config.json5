@@ -1,0 +1,24 @@
+{
+  "keybindings": {
+    "Game": {
+      "<q>": "Quit", // Quit the application
+      "<Ctrl-d>": "Quit", // Another way to quit
+      "<Ctrl-c>": "Quit", // Yet another way to quit
+      "<Ctrl-z>": "Suspend", // Suspend the application
+      "x":"Look",
+      "f":"Flag",
+      "l":"MoveRight",
+      "h":"MoveLeft",
+      "j":"MoveDown",
+      "k": "MoveUp",
+      "Up": "MoveUp",
+      "Down": "MoveDown",
+      "Left": "MoveLeft",
+      "Right": "MoveRight",
+      "Enter": "Look",
+      "Space": "Flag",
+      "s": "StartGame",
+      "r": "RestartGame",
+    },
+  }
+}
